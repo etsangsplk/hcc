@@ -1,4 +1,5 @@
 {  
    "issuer":"https://scitokens.org/cms",
-   "jwks_uri":"https://scitokens.org/cms/oauth2/certs"
+   "jwks_uri":"https://scitokens.org/cms/oauth2/certs",
+   "token_endpoint":"https://cms.scitokens.org/token"
 }
