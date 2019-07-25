@@ -12,8 +12,8 @@
             "kty": "EC",
             "alg": "ES256",
             "kid": "26df",
-            "y": "xkUiCX5aPmZplJ5UVHk-DwWBywLEYcbweruF2qajDjU",
-            "x": "DFYYgpiQbaBtxtlCm1ocw26xc_6tQGukFRVYCTK2x9M",
+            "y": "xkUiCX5aPmZplJ5UVHk-DwWBywLEYcbweruF2qajDjU=",
+            "x": "DFYYgpiQbaBtxtlCm1ocw26xc_6tQGukFRVYCTK2x9M=",
             "crv": "P-256",
             "use": "sig"
         }
