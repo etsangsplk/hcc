@@ -1,4 +1,4 @@
-# CMS SciTokens Issuer
+# HCC SciTokens Issuer
 
 This repo provides the scitokens public key verification
 
